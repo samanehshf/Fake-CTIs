@@ -7,7 +7,7 @@ This study investigates vulnerabilities across the entire CTI pipeline, focusing
 
 For detailed instructions on running the experiments, see the user guide.
 
-The generated dataset by the paper is available at: [AI-Generated] (dataset/input.txt).
+The generated dataset by the paper is available at: [AI-Generated] (dataset/Fake-Twitter.tsv) and  (dataset/Fake-AnnoCTR.tsv).
 
 ## Citation
 
