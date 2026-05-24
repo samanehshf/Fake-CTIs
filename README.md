@@ -7,8 +7,7 @@ This study investigates vulnerabilities across the entire CTI pipeline, focusing
 
 For detailed instructions on running the experiments, see the user guide.
 
-The generated datasets are available at:
-- `dataset/Responcegpt_prompts_twitter_GPT5.tsv` (AI-Generated)
+The generated datasets are available at: [AI-Generated](dataset/Responcegpt_prompts_twitter_GPT5.tsv)
 - `dataset/Responcegpt_prompts_annoctr_GPT5.tsv` (Annoctr)
 
 ## Citation
