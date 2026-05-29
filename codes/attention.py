@@ -13,15 +13,11 @@
 #   This avoids forcing weak early/mid phrases when evidence is concentrated (e.g., late IOC/CVE).
 # =========================
 
-import os
-import re
-import csv
+import os, re, csv
 import numpy as np
 import pandas as pd
 import tensorflow as tf
-
 from collections import Counter
-
 from tensorflow.keras.layers import (
     Layer, Input, Embedding, Bidirectional, LSTM, Dropout,
     Dense, LayerNormalization, MultiHeadAttention,
