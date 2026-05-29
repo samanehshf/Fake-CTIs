@@ -7,7 +7,7 @@ import traceback
 
 # ======================================
 client = OpenAI(
-    api_key="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"
+    api_key="sk-..."
 
 )
 import pandas as pd
