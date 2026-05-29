@@ -7,11 +7,7 @@ For local testing without calling the OpenAI API:
     python run_pipeline.py --dataset twitter.csv --skip-generation
 """
 
-import argparse
-import os
-import re
-import subprocess
-import sys
+import argparse, os, re, subprocess, sys
 from pathlib import Path
 
 
