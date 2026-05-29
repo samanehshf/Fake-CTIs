@@ -10,6 +10,13 @@ For detailed instructions on running the experiments, see the [user guide](user_
 The generated datasets are available at: [AI-Generated](dataset/Responcegpt_prompts_twitter_GPT5.tsv)
 
 ## Citation
-
+@article{shafee2026false,
+  title={False alarms, real damage: adversarial attacks using LLM-based models on text-based cyber threat intelligence systems},
+  author={Shafee, Samaneh and Bessani, Alysson and Ferreira, Pedro M},
+  journal={Future Generation Computer Systems},
+  pages={108603},
+  year={2026},
+  publisher={Elsevier}
+}
 
 
