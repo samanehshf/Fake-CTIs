@@ -1,19 +1,13 @@
 
 from openai import OpenAI
 import pandas as pd
-import time
-import csv
-import traceback
+import time, csv, traceback
 
 # ======================================
 client = OpenAI(
     api_key="sk-..."
 
 )
-import pandas as pd
-import time
-
-
 MODEL_NAME = "gpt-5.2"
 MAX_OUTPUT_TOKENS = 220
 
